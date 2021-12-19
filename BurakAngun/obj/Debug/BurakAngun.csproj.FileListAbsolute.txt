@@ -1,0 +1,7 @@
+C:\Users\Burak\source\repos\Sa\BurakAngun\bin\Debug\BurakAngun.exe.config
+C:\Users\Burak\source\repos\Sa\BurakAngun\bin\Debug\BurakAngun.exe
+C:\Users\Burak\source\repos\Sa\BurakAngun\bin\Debug\BurakAngun.pdb
+C:\Users\Burak\source\repos\Sa\BurakAngun\obj\Debug\BurakAngun.csproj.AssemblyReference.cache
+C:\Users\Burak\source\repos\Sa\BurakAngun\obj\Debug\BurakAngun.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Sa\BurakAngun\obj\Debug\BurakAngun.exe
+C:\Users\Burak\source\repos\Sa\BurakAngun\obj\Debug\BurakAngun.pdb
